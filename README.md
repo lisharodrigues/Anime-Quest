@@ -1,4 +1,4 @@
-# Anime Tracker Web Application
+# Anime Quest
 
 This is a web application built to allow users to organize, categorize, and track their favorite anime shows for personal viewing. The app integrates a seamless user interface and backend functionality, leveraging key technologies like **Java**, **Spring Boot**, and **MySQL**.
 
